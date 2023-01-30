@@ -11,7 +11,8 @@
 </ul>
 
 <!-- Prenz Logo Image-->
-![prenz-logo](https://user-images.githubusercontent.com/110192683/215567188-990819e4-0de3-4a64-97a6-b537bb31369d.png)
+![Presentation2](https://user-images.githubusercontent.com/110192683/215584001-c7ef8ced-e122-469e-a5b5-a285cef6bbbe.png)
+
 <h3 align="center">
     Quality cameras, captures every moment.
 </h3>
