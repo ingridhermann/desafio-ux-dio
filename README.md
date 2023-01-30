@@ -17,10 +17,13 @@
 </h3>
 
 ## About
-A Prenz tem suas raízes na Alemanha, fundada por Nate Bierrenbach. Somos uma organização que alinha os objetivos do consumidor as crenças e valores da empresa. A nossa missão é a seguinte: “O grupo Prenz para ser o líder mundial na indústria cinematográfica elabora marcas baseadas na paixão por câmeras a cada momento capturado."
+Fundada por Nate Bierrenbach, a Prenz com raízes na Alemanha. Reúne a expectativa do consumidor consoante a credibilidade alinhada aos valores da empresa. A missão é: “A organização Prenz busca atingir a satisfação na interação entre a indústria cinematográfica e marcas semelhantes a paixão por cada momento capturado."
 
 ## Briefing do Projeto
 Este documento define o planejamento de todas as etapas do desenvolvimento alinhado as necessidades do cliente, fundamental para coleta de dados e mapeamento das expectativas do cliente e UX Designer.
+
+Acesse o briefing: 
+
 
 ## Como o projeto está organizado?
   1. User Flow
