@@ -56,10 +56,16 @@ Acesse a jornada do usuário: [user-flow.pdf](https://github.com/ingridhermann/d
 
 <h1>Design System</h1>
 
+![Presentation-design-system](https://user-images.githubusercontent.com/110192683/215777712-add7515a-f189-4f12-8373-eb7ebed061c4.png)
+
 
 <h1>Visual Design / Protótipo</h1>
 
 
-
+<iframe style=
+"border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" 
+src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fe9pxnkUEbcsz8jcSNbzfdF%2FCamera-Shop-App%3Fpage-id%3D109%253A152%26node-id%3D139%253A226%26viewport%3D296%252C413%252C0.59%26scaling%3Dmin-zoom%26starting-point-node-id%3D139%253A226" 
+allowfullscreen>
+</iframe>
 
 
