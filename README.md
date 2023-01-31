@@ -23,7 +23,7 @@ Fundada por Nate Bierrenbach, a Prenz com raízes na Alemanha. Reúne a expectat
 ## Briefing do Projeto
 Este documento define o planejamento de todas as etapas do desenvolvimento alinhado as necessidades do cliente, fundamental para coleta de dados e mapeamento das expectativas do cliente e UX Designer.
 
-Acesse o briefing: [Briefing_Prenz.pdf](https://github.com/ingridhermann/desafio-ux-dio/files/10539212/Briefing_Prenz.pdf)
+Acesse o briefing: [briefing_prenz.pdf](https://github.com/ingridhermann/desafio-ux-dio/files/10539212/Briefing_Prenz.pdf)
 
 Tabela de conteúdos
 =================
@@ -43,6 +43,11 @@ Tabela de conteúdos
 <hr></hr>
 
 <h1>User Flow</h1>
+
+![Presentation-user-flow](https://user-images.githubusercontent.com/110192683/215759964-a160426d-1913-45e3-91ba-83fd92bdd9cd.png)
+
+Acesse a jornada do usuário: [user-flow.pdf](https://github.com/ingridhermann/desafio-ux-dio/files/10546335/Presentation-user-flow-pdf.pdf)
+
 <h1>Wireframe</h1>
 
 ![Presentation](https://user-images.githubusercontent.com/110192683/215580126-fd41e8c5-1e8b-42fe-ac56-6bcf8c5ed1a1.png)
