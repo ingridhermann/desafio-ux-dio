@@ -36,8 +36,6 @@ Tabela de conteúdos
       * [Wireframe](#wireframe)
       * [Design System](#design-system)
       * [Protótipo Navegável](#prototipo-navegavel)
-   * [Autora](#autora)
-   * [Tecnologias](#tecnologias)
 <!--te-->
 
 <hr></hr>
@@ -60,12 +58,6 @@ Acesse a jornada do usuário: [user-flow.pdf](https://github.com/ingridhermann/d
 
 
 <h1>Visual Design / Protótipo</h1>
-
-
-<iframe style=
-"border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" 
-src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fe9pxnkUEbcsz8jcSNbzfdF%2FCamera-Shop-App%3Fpage-id%3D109%253A152%26node-id%3D139%253A226%26viewport%3D296%252C413%252C0.59%26scaling%3Dmin-zoom%26starting-point-node-id%3D139%253A226" 
-allowfullscreen>
-</iframe>
+Acesse o protótipo navegável: https://figma.fun/YEH1P4
 
 
