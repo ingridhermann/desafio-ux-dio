@@ -35,7 +35,7 @@ Tabela de conteúdos
       * [User Flow](#user-flow)
       * [Wireframe](#wireframe)
       * [Design System](#design-system)
-      * [Protótipo Navegável](#prototipo-navegavel)
+      * [Protótipo Navegável](#visual-design-/-prototipo)
 <!--te-->
 
 <hr></hr>
