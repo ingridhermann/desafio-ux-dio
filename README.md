@@ -55,6 +55,7 @@ Acesse a jornada do usuário: [user-flow.pdf](https://github.com/ingridhermann/d
 <h1>Design System</h1>
 
 ![Presentation-design-system](https://user-images.githubusercontent.com/110192683/215777712-add7515a-f189-4f12-8373-eb7ebed061c4.png)
+![Presentation-design-system](https://user-images.githubusercontent.com/110192683/216076532-1dc4aa91-c708-4fb4-9f2c-30f9a1d1da07.png)
 
 
 <h1>Visual Design / Protótipo</h1>
